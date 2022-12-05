@@ -9,7 +9,7 @@ public class functionTest {
     public void unitPriceOfCopiesBetween1And4() {
         UnitPrice unitPrice = new UnitPrice();
         int price = unitPrice.priceOf(4);
-        assertEquals(8000, price);
+        assertEquals(4, price);
     }
 
     @Test

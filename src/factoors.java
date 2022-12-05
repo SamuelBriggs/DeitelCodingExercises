@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Eniola {
+public class factoors {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         float largest = Float.NEGATIVE_INFINITY;
